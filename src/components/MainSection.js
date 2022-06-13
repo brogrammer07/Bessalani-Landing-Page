@@ -2,7 +2,7 @@ import React from "react";
 import mainImage from "../Assests/main.png";
 const MainSection = () => {
   return (
-    <div className="flex flex-col-reverse lg:flex-row my-24 px-10 lg:max-w-[85%] lg:mx-auto">
+    <div className="flex flex-col-reverse lg:flex-row my-24 lg:mt-[9rem] px-10 md:px-24 lg:max-w-[85%] lg:mx-auto md:space-x-16">
       <div className="space-y-5 w-auto">
         <h1 className="font-bold sm:text-[44px] text-[34px] sm:text-left text-center">
           Get new skills for your personal & professional life online
@@ -17,7 +17,7 @@ const MainSection = () => {
         </button>
       </div>
       <div className="flex justify-center m-0 p-0 w-auto">
-          <img className="w-[25rem] h-auto md:w-[45rem]" src={mainImage} alt="" />
+        <img className="w-[25rem] h-auto md:w-[45rem]" src={mainImage} alt="" />
       </div>
     </div>
   );

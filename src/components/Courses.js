@@ -80,7 +80,7 @@ const Courses = () => {
 
   return (
     <div className="bg-[#EAF3FE] ">
-      <div className="flex flex-col space-y-16 lg:max-w-[85%] lg:mx-auto py-16">
+      <div className="flex flex-col space-y-16 lg:max-w-[75%] lg:mx-auto py-16">
         <h1 className="font-bold text-[44px] text-center">
           Upskilling made simple
         </h1>
