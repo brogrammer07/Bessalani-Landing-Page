@@ -3,7 +3,7 @@ import Main from "./Main";
 
 function App() {
   return (
-    <div className="">
+    <div className="m-0 p-0">
       <Header />
       <Main />
     </div>
