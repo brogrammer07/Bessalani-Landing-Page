@@ -12,7 +12,7 @@ const Section2 = () => {
             alt=""
           />
           <div className="flex flex-col self-center space-y-4 ">
-            <h1 className="font-bold text-[40px]">
+            <h1 className="font-bold sm:text-[40px] text-[26px]">
               Dive-in and provide specific learning experiences.
             </h1>
             <p className="text-[18px]">
@@ -23,9 +23,9 @@ const Section2 = () => {
         </div>
       </div>
       <div className="py-16 bg-[#F3F1EF]">
-        <div className="lg:max-w-[70%] lg:mx-auto  flex flex-col-reverse lg:flex-row space-x-16">
+        <div className="lg:max-w-[70%] lg:mx-auto flex flex-col-reverse items-center lg:flex-row space-x-16">
           <div className="flex flex-col self-center space-y-4 mx-10">
-            <h1 className="font-bold text-[40px]">
+            <h1 className="font-bold sm:text-[40px] text-[26px]">
               Collaborate to engage employees.
             </h1>
             <p className="text-[18px]">

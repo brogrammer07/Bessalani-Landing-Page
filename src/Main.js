@@ -5,7 +5,7 @@ import Section2 from "./components/Section2";
 
 const Main = () => {
   return (
-    <div className=" ">
+    <div className="m-0 p-0">
       <MainSection />
       <Section1 />
       <Section2 />
