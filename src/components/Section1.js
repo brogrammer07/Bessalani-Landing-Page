@@ -4,7 +4,7 @@ import section1_2 from "../Assests/section1_2.png";
 import section1_3 from "../Assests/section1_3.png";
 const Section1 = () => {
   return (
-    <div className="flex flex-col space-y-16 lg:max-w-[70%] lg:mx-auto my-16">
+    <div className="flex flex-col space-y-16 lg:max-w-[85%] lg:mx-auto my-16">
       <h1 className="sm:text-[44px] text-[34px] font-bold text-center w-[90%] lg:w-[53%] self-center">
         Unlock the potential within your organization.
       </h1>
