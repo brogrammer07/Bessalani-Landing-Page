@@ -17,7 +17,7 @@ const MainSection = () => {
         </button>
       </div>
       <div className="flex justify-center m-0 p-0 w-auto">
-        <img className="w-[25rem] h-auto md:w-[45rem]" src={mainImage} alt="" />
+        <img className="w-[25rem] h-auto md:w-[55rem]" src={mainImage} alt="" />
       </div>
     </div>
   );
